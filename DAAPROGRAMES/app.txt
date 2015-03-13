@@ -1,0 +1,24 @@
+Hii my self is vikash kumar .
+I am student of Indian Institue Of Information Technology, Allahabad .
+
+I am intersted in the solving Coding and algorithmic problems So  I can Solve problem like algorithmic. 
+
+Here I am giving my Idea regarding Mobile Apps .
+
+Today mobile apps are very popular my idea is basically .
+
+mobile app for the appointment and emergncey situtuation for the doctors.
+
+user can send sms simple write appointment and name so he get back sms for the time of the appointment time and when .
+
+it will make a small database of the month in the doctors mobile and automatically choose acording to doctor schedule when appointment to be 
+
+given . 
+
+In case of the client emergency he send sms so doctor are free then send back to sms by using goole map where the location for avaiblity .
+
+In case not free for the emergency so back sms not to free .
+
+Thanking You .
+
+further i can  extend it for the proffesors and other client type .
